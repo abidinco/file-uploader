@@ -1,0 +1,24 @@
+{
+  "name": "fileserver",
+  "version": "1.0.0",
+  "author": "seabey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.0",
+    "multer": "^1.3.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "Used [express](https://github.com/expressjs/express) and [multer](https://github.com/expressjs/multer)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seabey/file-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seabey/file-server/issues"
+  },
+  "homepage": "https://github.com/seabey/file-server#readme"
+}
